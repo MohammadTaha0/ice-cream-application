@@ -1,0 +1,437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ice-Cream-Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ice-Cream-Application.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\fonts\\fonts\\themeenergy.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\themeenergy.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\advertisment.jpg",
+      "PackagePath": "staticwebassets\\images\\advertisment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar7.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar8.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\avatar9.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\bgr\\body.jpg",
+      "PackagePath": "staticwebassets\\images\\bgr\\body.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\bgr\\ribbons.png",
+      "PackagePath": "staticwebassets\\images\\bgr\\ribbons.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\ico\\icons.png",
+      "PackagePath": "staticwebassets\\images\\ico\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\ico\\logo.png",
+      "PackagePath": "staticwebassets\\images\\ico\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\images\\img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img10.jpg",
+      "PackagePath": "staticwebassets\\images\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img11.jpg",
+      "PackagePath": "staticwebassets\\images\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img12.jpg",
+      "PackagePath": "staticwebassets\\images\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img13.jpg",
+      "PackagePath": "staticwebassets\\images\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img14.jpg",
+      "PackagePath": "staticwebassets\\images\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img15.jpg",
+      "PackagePath": "staticwebassets\\images\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img16.jpg",
+      "PackagePath": "staticwebassets\\images\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img17.jpg",
+      "PackagePath": "staticwebassets\\images\\img17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img18.jpg",
+      "PackagePath": "staticwebassets\\images\\img18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img19.jpg",
+      "PackagePath": "staticwebassets\\images\\img19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\images\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\images\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\img9.jpg",
+      "PackagePath": "staticwebassets\\images\\img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\images\\intro.jpg",
+      "PackagePath": "staticwebassets\\images\\intro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\jquery-3.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\jquery.uniform.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.uniform.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mohammad Taha\\source\\repos\\Ice-Cream-Application\\Ice-Cream-Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ice-Cream-Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ice-Cream-Application.props",
+      "PackagePath": "build\\Ice-Cream-Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ice-Cream-Application.props",
+      "PackagePath": "buildMultiTargeting\\Ice-Cream-Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ice-Cream-Application.props",
+      "PackagePath": "buildTransitive\\Ice-Cream-Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

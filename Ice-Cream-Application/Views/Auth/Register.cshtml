@@ -1,0 +1,150 @@
+﻿@model List<Plan>
+@{
+    ViewData["Title"] = "Registrer Now";
+    bool first = true;
+    string check = "";
+    string active = "";
+}
+<style>
+    .f-row .row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0px 13px;
+    }
+
+    .plan {
+        width: 49.5%;
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 22px;
+        font-weight: 700;
+        text-align: center;
+        border: 1px solid #F4716A;
+    }
+
+    .active-plan {
+        background: #F4716A;
+        border: 1px solid white;
+        color: white;
+    }
+
+    .plan:hover {
+        border: 1px solid white;
+        background: #F4716A;
+        color: white;
+    }
+
+    .error {
+        color: red;
+        width: 100%;
+        font-size: 13px;
+    }
+</style>
+<!--wrap-->
+<div class="wrap clearfix">
+    <!--row-->
+    <div class="row">
+        <!--content-->
+        <section class="content center full-width">
+            <form id="registerForm" class="modal container">
+                <h3>Register</h3>
+                <div class="f-row">
+                    <input type="text" placeholder="Your name" name="name" />
+                </div>
+                <div class="f-row">
+                    <input type="email" placeholder="Your email" name="email" />
+                </div>
+                <div class="f-row">
+                    <input type="text" placeholder="Your Contact" name="contact" />
+                </div>
+                <div class="f-row">
+                    <div class="full">
+                        <textarea placeholder="Your Address" name="address"></textarea>
+                    </div>
+                </div>
+                <div class="f-row">
+                    <input type="password" placeholder="Your password" name="password" />
+                </div>
+                <div class="f-row">
+                    <div class="row">
+
+                        @foreach (var plans in Model)
+                        {
+                            active = "";
+                            check = "";
+
+                            if (first == true)
+                            {
+                                active = "active-plan";
+                            }
+                            if (first == true)
+                            {
+                                check = "checked";
+                            }
+                            first = false;
+
+                            <label for="year" class="plan @active">@plans.name @plans.price$</label>
+                            <input type="radio" @check name="planId" style="display:none;" value="@plans.id" id="year-@plans.id" />
+                        }
+                    </div>
+                </div>
+                <div class="f-row bwrap">
+                    <input type="submit" id="registerbtn" value="register" />
+                </div>
+                <p>Already have an account yet? <a href="Auth/Login">Log in.</a></p>
+            </form>
+        </section>
+        <!--//content-->
+    </div>
+    <!--//row-->
+</div>
+<!--//wrap-->
+<script>
+    $(document).ready(function () {
+        $(".plan").click(function () {
+            if (!$(this).hasClass("active-plan")) {
+                $(".active-plan").removeClass('active-plan');
+                $(this).addClass('active-plan');
+            }
+        });
+        $("#registerForm").on("submit", function (e) {
+            e.preventDefault();
+            $(".error").remove();
+            $("#registerbtn").html("registering....");
+            let formData = {
+                name: $("[name='name']").val(),
+                email: $("[name='email']").val(),
+                contact: $("[name='contact']").val(),
+                address: $("[name='address']").val(),
+                password: $("[name='password']").val(),
+                planId: $("[name='plan']:checked").val(),
+                status: "1",
+            };
+            $.ajax({
+                type: "post",
+                url: "@Url.Content("~/Auth/Register")",
+                data: JSON.stringify(formData),
+                processData: false,
+                contentType: "application/json",
+                success: function (response) {
+                    if(response.status){
+                        alert(response.msg);
+                    }else{
+                        alert(response.msg);
+                    }
+                    $("#registerbtn").text("register");
+                },
+                error: function (error) {
+                    for (let i in error.responseJSON) {
+                        console.log(i);
+                        console.log(error.responseJSON[i]);
+                        $("[name='" + i + "']").parent().append(`<span class='error'>${error.responseJSON[i][0]}</span>`);
+                    }
+                }
+            });
+        });
+    });
+</script>
